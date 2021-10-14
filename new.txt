@@ -1,4 +1,4 @@
 hello 
-hello user
+hello yash
 welcome to my GitHub
 
