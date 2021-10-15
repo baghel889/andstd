@@ -1,7 +1,3 @@
 hello 
 welcome to my GitHub
-<<<<<<< HEAD
-hello sir
-=======
-hello everyone
->>>>>>> 238cb0c4ff5b3b8c65ac8dd4803020254ca27cb2
+hello
